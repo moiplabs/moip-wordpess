@@ -1,7 +1,7 @@
 wordpress-carrinho-moip
 =======================
 
-Contribucıes: AndrÈ Luiz de Oliveira, Vagner Fiuza Vieira (Suporte MoIP)
+Contribuc√µes: Andr√© Luiz de Oliveira, Vagner Fiuza Vieira (Suporte MoIP)
 
 URL do autor: http://www.andrewebmaster.com.br/internet/?p=206 
 
@@ -9,50 +9,50 @@ URL DO PLUGIN: http://www.andrewebmaster.com.br/internet/wp-content/plugins/word
 
 URL readme:http://www.andrewebmaster.com.br/internet/wp-content/plugins/wordpress-carrinho-moip/readme.txt
 
-Requirerimento: Theme com menu lateral e widgest Vers„o Wordpress 2.7 ou superior.
+Requirerimento: Theme com menu lateral e widgest Vers√£o Wordpress 2.7 ou superior.
 
-DescriÁ„o
+Descri√ß√£o
 ---------
 
 
 Plugin Shopping Cart Wordpress
 
-Plugin baseado em Shopping-Cart (http://www.tipsandtricks-hq.com/wordpress-simple-paypal-shopping-cart-plugin-768) para integraÁ„o com o sistema de Pagamento MoIP http://www.moip.com.br.
+Plugin baseado em Shopping-Cart (http://www.tipsandtricks-hq.com/wordpress-simple-paypal-shopping-cart-plugin-768) para integra√ß√£o com o sistema de Pagamento MoIP http://www.moip.com.br.
 Integra carrinho de compras no menu lateral de wordpress.
 
-InstalaÁ„o
+Instala√ß√£o
 -----------
 
-1)FaÁa o upload da pasta **wordpress-moip-shopping-cart** para o diretÛrio **/wp-content/plugins/**
+1)Fa√ßa o upload da pasta **wordpress-moip-shopping-cart** para o diret√≥rio **/wp-content/plugins/**
 
 2)Crie uma conta gratuita para E-Commerce na URL: https://www.moip.com.br/CreateWallet.do
 
-3)Ative o plugin em ·rea administrativa Wordpress > configuraÁıes > Carrinho Moip 
-configura o endereÁo de e-mail principal utilizado no sistema MoIP. 
+3)Ative o plugin em √°rea administrativa Wordpress > configura√ß√µes > Carrinho Moip 
+configura o endere√ßo de e-mail principal utilizado no sistema MoIP. 
 
 4-Como integrar a seu Wordpress:
 
-4.1 O Primeiro passo È criar uma conta free no site de www.moip.com.br acessando URL: http://www.moip.com.br/MainMenu.do?method=login
+4.1 O Primeiro passo √© criar uma conta free no site de www.moip.com.br acessando URL: http://www.moip.com.br/MainMenu.do?method=login
 
-4.2 O e-mail configurado na area de configuraÁıes WordpRess em Moip Pagamentos deve ser o e-mail principal de sua conta Moip criada.
+4.2 O e-mail configurado na area de configura√ß√µes WordpRess em Moip Pagamentos deve ser o e-mail principal de sua conta Moip criada.
 
-4.3- Para adicionar um bot„o 'Adicionar ao Carrinho' simplesmente insira o texto na pagina ou post  [moip=Camisa-verde-(M):valor=45.00:end] ao artigo ou p·gina, prÛximo ao produto ou local a sua  escolha.
+4.3- Para adicionar um bot√£o 'Adicionar ao Carrinho' simplesmente insira o texto na pagina ou post  [moip=Camisa-verde-(M):valor=45.00:end] ao artigo ou p√°gina, pr√≥ximo ao produto ou local a sua  escolha.
 
 Substitua NOME-DO-PRODUTO e VALOR-DO-PRODUTO pelo nome e valor reais, assim: 
 
 Exemplo: [moip=Camisa-verde-(M):valor=45.00:end]
 
  
-4.2- Para adicionar o carrinho de compras a um artigo ou p·gina de checkout ou ‡ sidebar simplesmente adicione o texto <!--ativar_carrinho_MoIP--> a um post, p·gina ou sidebar, caso n„o tenha windegst disponÌvel em seu site ser· possÌvel incluir o carrinho MoIP em qualquer post que vocÍ deseje.
+4.2- Para adicionar o carrinho de compras a um artigo ou p√°gina de checkout ou √† sidebar simplesmente adicione o texto <!--ativar_carrinho_MoIP--> a um post, p√°gina ou sidebar, caso n√£o tenha windegst dispon√≠vel em seu site ser√° poss√≠vel incluir o carrinho MoIP em qualquer post que voc√™ deseje.
 
 Exemplo: <!--ativar_carrinho_MoIP-->
  
 
-O carrinho sÛ ser· visÌvel quando o comprador adicionar pelo menos um produto.
+O carrinho s√≥ ser√° vis√≠vel quando o comprador adicionar pelo menos um produto.
 
-== Frequentes Questıes ==
+== Frequentes Quest√µes ==
 
-**1-Como fazer se meu tema n„o suportar Slidebar?**
+**1-Como fazer se meu tema n√£o suportar Slidebar?**
 
 R:1- Basta colocar o codigo <!--ativar_carrinho_MoIP--> na mesma postagem ou pagina do produto ou produtos integrados.
 
@@ -64,9 +64,9 @@ R:2- Colocamos 3 tipos e tamanho de imagens na pasta "wordpress-moip-shopping-ca
 
 URL: http://www.andrewebmaster.com.br/internet/?p=206
 
-Chat suporte discuss„o: http://www.siteflash.com.br/chat
+Chat suporte discuss√£o: http://www.siteflash.com.br/chat
 
-DoaÁıes atravÈs sitema MOIP: http://www.siteflash.com.br/doacao
+Doa√ß√µes atrav√©s sitema MOIP: http://www.siteflash.com.br/doacao
 
 Screenshot 
 ----------
