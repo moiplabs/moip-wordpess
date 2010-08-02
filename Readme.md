@@ -23,18 +23,18 @@ Integra carrinho de compras no menu lateral de wordpress.
 Instalação
 -----------
 
-1)Faça o upload da pasta **wordpress-moip-shopping-cart** para o diretório **/wp-content/plugins/**
+1- Faça o upload da pasta **wordpress-moip-shopping-cart** para o diretório **/wp-content/plugins/**
 
-2)Crie uma conta gratuita para E-Commerce na URL: https://www.moip.com.br/CreateWallet.do
+2- Crie uma conta gratuita para E-Commerce na URL: https://www.moip.com.br/CreateWallet.do
 
-3)Ative o plugin em área administrativa Wordpress > configurações > Carrinho Moip 
+3- Ative o plugin em área administrativa Wordpress > configurações > Carrinho Moip 
 configura o endereço de e-mail principal utilizado no sistema MoIP. 
 
-4-Como integrar a seu Wordpress:
+4- Como integrar a seu Wordpress:
 
-4.1 O Primeiro passo é criar uma conta free no site de www.moip.com.br acessando URL: http://www.moip.com.br/MainMenu.do?method=login
+4.1- O Primeiro passo é criar uma conta free no site de www.moip.com.br acessando URL: http://www.moip.com.br/MainMenu.do?method=login
 
-4.2 O e-mail configurado na area de configurações WordpRess em Moip Pagamentos deve ser o e-mail principal de sua conta Moip criada.
+4.2- O e-mail configurado na area de configurações WordpRess em Moip Pagamentos deve ser o e-mail principal de sua conta Moip criada.
 
 4.3- Para adicionar um botão 'Adicionar ao Carrinho' simplesmente insira o texto na pagina ou post  [moip=Camisa-verde-(M):valor=45.00:end] ao artigo ou página, próximo ao produto ou local a sua  escolha.
 
@@ -50,7 +50,8 @@ Exemplo: <!--ativar_carrinho_MoIP-->
 
 O carrinho só será visível quando o comprador adicionar pelo menos um produto.
 
-== Frequentes Questões ==
+F.A.Q
+--------------------
 
 **1-Como fazer se meu tema não suportar Slidebar?**
 
