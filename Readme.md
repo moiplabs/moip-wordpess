@@ -1,6 +1,8 @@
 wordpress-carrinho-moip
 =======================
 
+**Atenção**: Este plugin está **depreciado**, [veja nosso novo plugin para Wordpress](http://github.com/moiplabs/wp-moip/)
+
 Contribucões: André Luiz de Oliveira, Vagner Fiuza Vieira (Suporte MoIP)
 
 URL do autor: http://www.andrewebmaster.com.br/internet/?p=206 
